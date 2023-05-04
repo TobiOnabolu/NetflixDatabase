@@ -1,5 +1,5 @@
 # NetflixDatabase
-Created a prototype schema that replicates what I think a streaming service's relational schema may look like.<br/>
+Created a 3NF Database that replicates what I think a streaming service's relational schema may look like.<br/>
 The SQL used to create the database is given in the file: Netflixdb.sql<br/>
 This is a visual representation of how the schema looks: <br/>
 <br/>
